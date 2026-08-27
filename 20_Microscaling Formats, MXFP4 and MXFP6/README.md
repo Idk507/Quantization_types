@@ -1,0 +1,1 @@
+Microscaling Formats, MXFP4 and MXFP6. These quantize small blocks of values with a shared exponent scale, standardized by the Open Compute Project, letting four bit and six bit floating point formats approach eight bit accuracy, and are supported on the newest generation of accelerators.
