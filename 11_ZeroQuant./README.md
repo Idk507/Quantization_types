@@ -1,0 +1,1 @@
+ZeroQuant. An extension of the weight and activation quantization line of work that adds fine grained group wise quantization plus a lightweight layer by layer knowledge distillation step to recover accuracy without a full training pipeline.
