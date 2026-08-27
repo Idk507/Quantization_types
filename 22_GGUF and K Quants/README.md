@@ -1,0 +1,1 @@
+GGUF and K Quants. An engineered family of mixed bit width group wise schemes used by llama.cpp, assigning different average bit widths to different tensor types within a transformer based on measured sensitivity, and the dominant format for local CPU and consumer GPU inference due to excellent memory mapped loading.
