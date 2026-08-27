@@ -1,0 +1,1 @@
+LLM.int8(), Outlier Decomposition. The first technique built specifically for large transformer quantization. It identifies a small number of systematic outlier feature dimensions in activations, computes those in FP16, and computes the remaining vast majority of the matrix multiply in INT8, a mixed precision decomposition rather than a single global scheme.
