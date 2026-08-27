@@ -1,0 +1,1 @@
+Dynamic Quantization. This is the simplest deployable technique, where activation scales are computed on the fly at inference time from the actual input, with no calibration dataset required. It is fast to apply and commonly used for RNNs and simple linear layers, but is generally less accurate than static calibration based methods for larger transformer models.
