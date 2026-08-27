@@ -1,0 +1,1 @@
+KV Cache Quantization. A distinct scope from weights and activations, this compresses the key and value tensors cached during autoregressive decoding, typically to INT8 or INT4, and becomes critical at long context lengths where the KV cache can exceed the size of the model weights themselves. KIVI is a representative technique here.
