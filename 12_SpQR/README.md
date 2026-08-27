@@ -1,0 +1,1 @@
+SpQR, Sparse Quantized Representation. This pushes weight only quantization below four bits by explicitly detecting a small set of outlier weights per layer and storing just those at full precision in a separate sparse structure, while the dense remainder is compressed aggressively. This is the weight side counterpart to the outlier isolation idea from LLM.int8().
