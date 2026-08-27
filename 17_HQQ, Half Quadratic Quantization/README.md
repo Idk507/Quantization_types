@@ -1,0 +1,1 @@
+HQQ, Half Quadratic Quantization. A calibration free method that solves a robust optimization problem in closed form per layer with no dataset or backpropagation required, useful when no representative calibration data exists or quantization must happen at load time.
