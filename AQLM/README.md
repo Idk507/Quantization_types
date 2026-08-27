@@ -1,0 +1,1 @@
+AQLM, Additive Quantization for LLMs. This generalizes vector quantization by representing groups of weights as a sum of vectors drawn from multiple learned codebooks, currently one of the strongest published results for two bit and lower average bit width compression.
