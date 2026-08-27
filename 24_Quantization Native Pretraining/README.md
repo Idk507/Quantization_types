@@ -1,0 +1,1 @@
+Quantization Native Pretraining. The final and most advanced step, where the model is trained from initialization in low precision, such as FP8 pretraining recipes used at large AI labs, or in a quantization native parameterization like BitNet, producing models that are robust to low precision by construction rather than corrected for it after training.
