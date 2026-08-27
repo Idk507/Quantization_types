@@ -1,0 +1,1 @@
+SmoothQuant, Weight and Activation Quantization for W8A8. This solves the harder problem of quantizing both weights and activations to INT8. It offline migrates quantization difficulty from hard to quantize activations into easy to quantize weights using a per channel smoothing factor that can be fused into adjacent layers at export time, at zero runtime cost.
