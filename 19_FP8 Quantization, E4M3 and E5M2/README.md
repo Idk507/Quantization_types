@@ -1,0 +1,1 @@
+FP8 Quantization, E4M3 and E5M2. Rather than integers, this keeps a floating exponent at low bit width, which handles dynamic range better than INT8 at the same bit budget and is natively accelerated on Hopper and newer GPU generations for both training and inference.
