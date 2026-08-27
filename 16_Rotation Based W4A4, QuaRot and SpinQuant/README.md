@@ -1,0 +1,1 @@
+Rotation Based W4A4, QuaRot and SpinQuant. These generalize the incoherence processing idea into a full pipeline for quantizing both weights and activations to four bits, applying Hadamard rotations at multiple points including within attention. SpinQuant improves on QuaRot by learning the rotation matrices rather than using fixed random ones.
