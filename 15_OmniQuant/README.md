@@ -1,0 +1,1 @@
+OmniQuant. This introduces a small number of learnable clipping and equivalent transformation parameters optimized block by block on a calibration set with lightweight gradient descent, giving a single flexible framework that works for both weight only and weight plus activation settings
